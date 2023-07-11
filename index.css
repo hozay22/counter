@@ -9,6 +9,17 @@ h1 {
   background-image: url(C:/Users/jbara/Documents/Projects/counter/resources/images/pinacolada.jpg);
   text-align: center;
   font-size: 100px;
-  color: khaki;
+  color: blue;
   font-weight: bold;
+  border-radius: 10px;
+}
+
+button {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 25px;
+  font-size: 25px; 
+  color: rgb(242, 242, 255); 
+  border-radius: 10px;
+  background-color: rgb(8, 0, 255);
 }
