@@ -6,7 +6,7 @@ p {
 }
 
 h1 {
-  background-image: url(C:\Users\jbara\Documents\GitHub\counter\pinacolada.jpg);
+  background-image: url("C:\Users\jbara\Documents\GitHub\counter\pinacolada.jpg");
   text-align: center;
   font-size: 100px;
   color: blue;
