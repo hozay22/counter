@@ -17,8 +17,20 @@ button {
   border: 0;
   line-height: 2.5;
   padding: 0 25px;
+  cursor: pointer;
   font-size: 25px; 
   color: rgb(242, 242, 255); 
   border-radius: 10px;
+  box-shadow: 0 9px grey;
   background-color: rgb(8, 0, 255);
+}
+
+button:hover {
+  background-color: rgb(16, 0, 127);
+}
+
+button:active{
+  background-color: rgb(16, 0, 127);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
